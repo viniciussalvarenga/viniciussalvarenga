@@ -5,3 +5,4 @@
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Before trying to be a programmer, I was looking forward to be a Physicist! 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussalvarenga)](

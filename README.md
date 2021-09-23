@@ -9,19 +9,18 @@
 
 ##
 ###
-<div>
+<div align="center">
   <a href="https://github.com/viniciussalvarenga">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciussalvarenga&theme=synthwave&show_icons=true&count_private=true"> 
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussalvarenga&layout=compact&langs_count=10&theme=synthwave">
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciussalvarenga&theme=synthwave&show_icons=true&count_private=true"> 
+  <img 	height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussalvarenga&layout=compact&langs_count=10&theme=synthwave">
 </div>
 	
 <div style="display: inline_block"><br>
 	<a href= "github.com/viniciussalvarenga">
-	<img align= "center" height=40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg>
-	<img align= "center" height=40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg >
-	<img align= "center" height=40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg>
-	<img align= "center" height=40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg>
+	<img align= "center" alt="C++" height=40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg>
+	<img align= "center" alt="Java" height=40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg >
+	<img align= "center" alt="Python"height=40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg>
+	<img align= "center" alt="Html" height=40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg>
 	</a>
 </div>
 

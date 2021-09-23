@@ -2,7 +2,7 @@
 ###
 
 - 📷 Looking for a job
-- 🌱 I’m currently learning new programming languages
+- 🌱 I’m currently learning new programming languages and improving the ones I already know!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Before trying to be a programmer, I was looking forward to be a Physicist! 
 

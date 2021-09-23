@@ -11,8 +11,8 @@
 ###
 <div>
   <a href="https://github.com/viniciussalvarenga">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciussalvarenga&theme=synthwave&show_icons=true&count_private=true"> 
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussalvarenga&theme=synthwave&langs_count=10&layout=compact">
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciussalvarenga&theme=synthwave&show_icons=true&count_private=true"> 
+  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussalvarenga&theme=synthwave&langs_count=10&layout=compact">
   </a>
 </div>
 	

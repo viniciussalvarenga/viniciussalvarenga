@@ -1,4 +1,4 @@
-## Olá, mundo! Bem vindo ao meu perfil, sou Vinícius Alvarenga, um jovem programador procurando por novas oportunidades!
+## Olá, mundo! Bem vindo ao meu perfil!
 ###
 
 - 📷 Looking for a job
@@ -11,16 +11,16 @@
 
 <div align="center">
   <a href="https://github.com/viniciussalvarenga">
-  <img height="140em" width=400 src="https://github-readme-stats.vercel.app/api?username=viniciussalvarenga&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true"> 
-  <img height="140em" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussalvarenga&layout=compact&langs_count=7&theme=synthwave">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=viniciussalvarenga&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true"> 
+  <img height="180em" width= 520 src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussalvarenga&layout=compact&langs_count=7&theme=synthwave">
 </div>
 	
 <div style="display: inline_block"><br>
 	<a href= "github.com/viniciussalvarenga">
-	<img align= "center" alt="C++" height=40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg>
-	<img align= "center" alt="Java" height=40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg >
-	<img align= "center" alt="Python"height=40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg>
-	<img align= "center" alt="Html" height=40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg>
+	<img align= "center" alt="C++" height=30 width= 40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg>
+	<img align= "center" alt="Java" height=30 width= 40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg >
+	<img align= "center" alt="Python" height=30 width= 40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg>
+	<img align= "center" alt="Html" height=30 width= 40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg>
 	</a>
 </div>
 

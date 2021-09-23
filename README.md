@@ -7,9 +7,10 @@
 
 
 <div>
-  <a href="github.com/viniciussalvarenga">
-  <img height=180 src= https://github-readme-stats.vercel.app/api?username=viniciussalvarenga&theme=synthwave&show_icons=true)> 
-	<img height=180 src= https://github-readme-stats.vercel.app/api/pin/?username=viniciussalvarenga&layout=compact&langs_count=16)
-</div> 
+  <a href="https://github.com/viniciussalvarenga">
+  <img allign="center" src= https://github-readme-stats.vercel.app/api?username=viniciussalvarenga&theme=synthwave&show_icons=true&count_private=true)> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viniciussalvarenga&repo=viniciussalvarenga" />
+  </a>
+</div>
 	
 

@@ -12,7 +12,7 @@
 <div>
   <a href="https://github.com/viniciussalvarenga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciussalvarenga&theme=synthwave&show_icons=true&count_private=true"> 
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussalvarenga&layout=compact&langs_count=10&theme=synthwave">
+  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussalvarenga&layout=compact&langs_count=10&theme=synthwave">
   </a>
 </div>
 	

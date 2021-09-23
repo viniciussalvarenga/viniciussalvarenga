@@ -11,7 +11,7 @@
 <div>
   <a href="https://github.com/viniciussalvarenga">
   <img height=180 allign="center" src= https://github-readme-stats.vercel.app/api?username=viniciussalvarenga&theme=synthwave&show_icons=true&count_private=true)> 
-  <img height=180 allign="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viniciussalvarenga&repo=viniciussalvarenga" />
+  <img allign="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viniciussalvarenga&repo=viniciussalvarenga" />
   </a>
 </div>
 	

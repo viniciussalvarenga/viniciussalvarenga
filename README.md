@@ -1,8 +1,8 @@
 ## Olá, mundo! Bem vindo ao meu perfil!
-###
+
 
 - 📷 Looking for a job
-- 🌱 I’m currently learning new programming languages and improving the ones I already know!
+- 🌱 I’m constantly learning new programming languages and improving the ones I already know!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Before trying to be a programmer, I was looking forward to be a Physicist! 
 
@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/viniciussalvarenga">
   <img src="https://github-readme-stats.vercel.app/api?username=viniciussalvarenga&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussalvarenga&layout=compact&langs_count=4&theme=synthwave">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussalvarenga&langs_count=4&theme=synthwave">
 </div>
 	
 <div style="display: inline_block"><br>

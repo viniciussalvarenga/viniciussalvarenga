@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/viniciussalvarenga">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciussalvarenga&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true"> 
+  <img height=160em src="https://github-readme-stats.vercel.app/api?username=viniciussalvarenga&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true"> 
   <img height=160em src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussalvarenga&langs_count=4&theme=synthwave">
 </div>
 	

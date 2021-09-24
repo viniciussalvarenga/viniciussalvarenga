@@ -14,7 +14,7 @@
   <img height=160em src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussalvarenga&langs_count=4&theme=synthwave">
 </div>
 	
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
 	<a href= "https://github.com/viniciussalvarenga">
 	<img align= "center" alt="C++" height=30 width= 40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg>
 	<img align= "center" alt="Java" height=30 width= 40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg >
@@ -25,7 +25,7 @@
 
 ##
 
-<div><br>
+<div align="center"><br>
 	<a href=https://api.whatsapp.com/send?phone=5511932093584 target="_blank">
 	<img align= "center" src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white>
 	</a>

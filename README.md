@@ -30,7 +30,7 @@
 	<a href=https://api.whatsapp.com/send?phone=5511932093584 target="_blank">
 	<img align= "center" src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white>
 	</a>
-	<a href= https://www.linkedin.com/in/vin%C3%ADcius-silva-alvarenga-4b09601b7 target="_blank">
+	<a href= https://www.linkedin.com/in/viniciussalvarenga target="_blank">
 	<img align= "center" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
 	</a>
 	<img src=https://github.com/viniciussalvarenga/viniciussalvarenga/blob/output/github-contribution-grid-snake.svg>

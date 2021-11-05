@@ -1,7 +1,7 @@
 ## Olá, mundo! Bem vindo ao meu perfil!
 
 
-- 📷 Working at ForsetiTecnologia em Licitação
+- 📷 Working at Forseti Tecnologia em Licitação
 - 🌱 I’m constantly learning new programming languages and improving the ones I already know!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Before trying to be a programmer, I was looking forward to be a Physicist! 
